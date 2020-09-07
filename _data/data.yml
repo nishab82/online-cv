@@ -152,22 +152,45 @@ experiences:
 #       - title: A syntax directed compiler for Algol 60
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
+mbskills: 
+    title: Molecular Biology Skills
+
+    toolset:
+      - name: Bacterial and Yeast Cloning
+      - name: CRISPR-Cas9 editing
+      - name: Strain and Plasmid design
+      - name: Flow cytometry
+      - name: Reverse transcription
+      - name: qPCR and analysis
+      - name: DNA and RNA Extraction
+      - name: PCR
+      - name: Benchling
+      - name: BLAST
+      - name: Sanger Sequencing
+      - name: NGS (Nanopore)
+      - name: Histology
+      - name: Immunohistochemistry
+      - name: Radioimmunoassay
+      - name: SDS PAGE
+      - name: Western Blot
+      - name: Protein Purification
+      - name: Cell Culture
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Programming Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 90%
+        level: 95%
 
       - name: R
-        level: 70%
+        level: 75%
 
       - name: Java
         level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
 
 
