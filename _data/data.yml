@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Nisha Balabhadra
-    tagline: Human person
+    tagline: Human being
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -193,11 +193,11 @@ skills:
       - name: HTML5 & CSS
         level: 80%
       
-      title: Programming Skills &amp; Proficiency
+    title: Programming Skills &amp; Proficiency
       
-      toolset:
-        - name: Bacterial and Yeast Cloning
-          level: 99%
+    toolset:
+      - name: Bacterial and Yeast Cloning
+        level: 99%
 
 
 
