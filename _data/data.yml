@@ -157,24 +157,25 @@ mbskills:
 
     toolset:
       - name: Bacterial and Yeast Cloning
-      - name: CRISPR-Cas9 editing
-      - name: Strain and Plasmid design
-      - name: Flow cytometry
-      - name: Reverse transcription
-      - name: qPCR and analysis
-      - name: DNA and RNA Extraction
-      - name: PCR
-      - name: Benchling
-      - name: BLAST
-      - name: Sanger Sequencing
-      - name: NGS (Nanopore)
-      - name: Histology
-      - name: Immunohistochemistry
-      - name: Radioimmunoassay
-      - name: SDS PAGE
-      - name: Western Blot
-      - name: Protein Purification
-      - name: Cell Culture
+        level: 99%
+      # - name: CRISPR-Cas9 editing
+      # - name: Strain and Plasmid design
+      # - name: Flow cytometry
+      # - name: Reverse transcription
+      # - name: qPCR and analysis
+      # - name: DNA and RNA Extraction
+      # - name: PCR
+      # - name: Benchling
+      # - name: BLAST
+      # - name: Sanger Sequencing
+      # - name: NGS (Nanopore)
+      # - name: Histology
+      # - name: Immunohistochemistry
+      # - name: Radioimmunoassay
+      # - name: SDS PAGE
+      # - name: Western Blot
+      # - name: Protein Purification
+      # - name: Cell Culture
 
 skills:
     title: Programming Skills &amp; Proficiency
