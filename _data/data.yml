@@ -193,8 +193,11 @@ skills:
       - name: HTML5 & CSS
         level: 80%
       
-      - name: Bacterial and Yeast Cloning
-        level: 99%
+      title: Programming Skills &amp; Proficiency
+      
+      toolset:
+        - name: Bacterial and Yeast Cloning
+          level: 99%
 
 
 
