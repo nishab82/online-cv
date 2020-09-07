@@ -1,6 +1,6 @@
 {% assign mbskills = site.data.data.mbskills %}
 {% if mbskills %}
-<section class="mbskills-section section">
+<section class="skills-section section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -12,10 +12,10 @@
 
   <div class="skillset">
 
-    {% for mbskill in mbskills.toolset %}
+    {% for skill in mbskills.toolset %}
     <div class="item">
 
-      <h3 class="level-title">{{ mbskill.name }}</h3>
+      <h3 class="level-title">{{ skill.name }}</h3>
 
       <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
