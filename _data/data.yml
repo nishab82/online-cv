@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Nisha Balabhadra
+    name: Nisha
     tagline: Human
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -152,7 +152,7 @@ experiences:
 #       - title: A syntax directed compiler for Algol 60
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
-skills: 
+mbskills: 
     title: Molecular Biology Skills
 
     toolset:
