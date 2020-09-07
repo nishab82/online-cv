@@ -152,14 +152,14 @@ experiences:
 #       - title: A syntax directed compiler for Algol 60
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
-mbskills: 
+skills: 
     title: Molecular Biology Skills
 
     toolset:
       - name: Bacterial and Yeast Cloning
         level: 99%
       
-      - name: CRISPR-Cas9 editing
+      # - name: CRISPR-Cas9 editing
       # - name: Strain and Plasmid design
       # - name: Flow cytometry
       # - name: Reverse transcription
