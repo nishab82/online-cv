@@ -64,21 +64,21 @@ experiences:
       company: Lygos, Inc
       details: |
         Previously Research Associate I
-          -Designed, transformed, and tested strains as needed for entire Synthetic Biology Department
-          -Project Director for generating and testing promoter diversity in P. kudriavzevii
-          -Project Director for improving diploid transformation efficiency in P. kudriavzevii
-          -Found and validated 3 small molecule inducible / repressible systems for gene expression via fluorescence
-          -Implemented small molecule expression systems for expression of product of interest
-          -Designed and tested experiments on the use of small molecule expression for existing protease degradation system
-          -Implemented novel triple fluorescent protein tagging system for general lab use
-          -Optimized Flow cytometry instrument and protocols for fluorescence detection
-          -Created novel RNA extraction, qPCR, and multiplexed qPCR protocols for general lab use
-          -Developed and optimized in-house luminescence based protein tagging system
-          -Authored SOPs for new methods developed in-house
-          -Wrote python script for streamlined data analysis and presentation in Jupyter Notebooks
-          -Regularly presented data and findings in department meetings and presented papers in journal clubs 
-          -Collaborated with other departments to further test efficacy of strains built
-          -Served on company wide Safety Committee to ensure safe lab practices, complete timely inspections, and create COVID-19 protocols
+          - Designed, transformed, and tested strains as needed for entire Synthetic Biology Department
+          - Project Director for generating and testing promoter diversity in P. kudriavzevii
+          - Project Director for improving diploid transformation efficiency in P. kudriavzevii
+          - Found and validated 3 small molecule inducible / repressible systems for gene expression via fluorescence
+          - Implemented small molecule expression systems for expression of product of interest
+          - Designed and tested experiments on the use of small molecule expression for existing protease degradation system
+          - Implemented novel triple fluorescent protein tagging system for general lab use
+          - Optimized Flow cytometry instrument and protocols for fluorescence detection
+          - Created novel RNA extraction, qPCR, and multiplexed qPCR protocols for general lab use
+          - Developed and optimized in-house luminescence based protein tagging system
+          - Authored SOPs for new methods developed in-house
+          - Wrote python script for streamlined data analysis and presentation in Jupyter Notebooks
+          - Regularly presented data and findings in department meetings and presented papers in journal clubs 
+          - Collaborated with other departments to further test efficacy of strains built
+          - Served on company wide Safety Committee to ensure safe lab practices, complete timely inspections, and create COVID-19 protocols
 
 
     - role: Undergraduate Research Assistant
@@ -86,13 +86,13 @@ experiences:
       company: Hayes Lab, UC Berkeley
       details: |
         Undergraduate research at Hayes Lab in UC Berkeley's Integrative Biology Department
-          -Project Director of Estrogen Metabolite Effect on X.Laevis Liver
-          -Project Director of Effect on Group Housing Vs. Individual Housing on Stress Levels and Spontaneous Egg Laying in X.Laevis
-          -Presented Effect of Housing on Stress Levels and Egg Laying at SACNAS 2016 national conference
-          -Daily care of experimental and laboratory animals, including juvenile, adult and tadpole X.Laevis
-          -Created novel X.Laevis hepatocyte cell culture protocol
-          -Performed euthanization, dissection, perfusion, and cardiac puncture of live animals, as needed for experiments
-          -Developed novel program for qPCR analysis to replace outdated lab procedure
+          - Project Director of Estrogen Metabolite Effect on X.Laevis Liver
+          - Project Director of Effect on Group Housing Vs. Individual Housing on Stress Levels and Spontaneous Egg Laying in X.Laevis
+          - Presented Effect of Housing on Stress Levels and Egg Laying at SACNAS 2016 national conference
+          - Daily care of experimental and laboratory animals, including juvenile, adult and tadpole X.Laevis
+          - Created novel X.Laevis hepatocyte cell culture protocol
+          - Performed euthanization, dissection, perfusion, and cardiac puncture of live animals, as needed for experiments
+          - Developed novel program for qPCR analysis to replace outdated lab procedure
 
 
     - role: Undergraduate Assistant
@@ -100,9 +100,9 @@ experiences:
       company: DNA Sequencing Facility, UC Berkeley
       details: |
           - Performed DNA Sequencing and PCR cleanup reactions for customer samples
-          -Analyzed and troubleshooted Sanger sequencing reactions
-          -Interacted with customers to explain procedures and assist in their DNA sequencing experiments
-          -Trained all incoming undergraduates in lab protocols
+          - Analyzed and troubleshooted Sanger sequencing reactions
+          - Interacted with customers to explain procedures and assist in their DNA sequencing experiments
+          - Trained all incoming undergraduates in lab protocols
 
 
 # projects:
