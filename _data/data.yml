@@ -158,7 +158,8 @@ mbskills:
     toolset:
       - name: Bacterial and Yeast Cloning
         level: 99%
-      # - name: CRISPR-Cas9 editing
+      
+      - name: CRISPR-Cas9 editing
       # - name: Strain and Plasmid design
       # - name: Flow cytometry
       # - name: Reverse transcription
@@ -192,12 +193,6 @@ skills:
 
       - name: HTML5 & CSS
         level: 80%
-      
-    title: Programming Skills &amp; Proficiency
-      
-    toolset:
-      - name: Bacterial and Yeast Cloning
-        level: 99%
 
 
 
