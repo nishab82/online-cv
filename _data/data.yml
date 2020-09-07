@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Nisha Balabhadra
+    tagline: Human
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: nisha.balabhadra@gmail.com
+    phone: #012 345 6789
+    website: # blog.webjeda.com #do not add http://
+    linkedin: nisha-balabhadra
+    github: nishab82
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -27,17 +27,14 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Telugu
+        level: Native
         
     interests:
-      - item: Climbing
-        link:
+      - item: Being Annoying
+        link: www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO
 
-      - item: Snowboarding
+      - item: Knitting
         link:
 
       - item: Cooking
@@ -55,145 +52,124 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BA in Molecular and Cell Biology
+      university: University of California, Berkeley
+      time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        Emphasis in Biochemistry and Molecular Biology
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Associate II
+      time: June 2018 - Present
+      company: Lygos, Inc
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Previously Research Associate I
+          -Designed, transformed, and tested strains as needed for entire Synthetic Biology Department
+          -Project Director for generating and testing promoter diversity in P. kudriavzevii
+          -Project Director for improving diploid transformation efficiency in P. kudriavzevii
+          -Found and validated 3 small molecule inducible / repressible systems for gene expression via fluorescence
+          -Implemented small molecule expression systems for expression of product of interest
+          -Designed and tested experiments on the use of small molecule expression for existing protease degradation system
+          -Implemented novel triple fluorescent protein tagging system for general lab use
+          -Optimized Flow cytometry instrument and protocols for fluorescence detection
+          -Created novel RNA extraction, qPCR, and multiplexed qPCR protocols for general lab use
+          -Developed and optimized in-house luminescence based protein tagging system
+          -Authored SOPs for new methods developed in-house
+          -Wrote python script for streamlined data analysis and presentation in Jupyter Notebooks
+          -Regularly presented data and findings in department meetings and presented papers in journal clubs 
+          -Collaborated with other departments to further test efficacy of strains built
+          -Served on company wide Safety Committee to ensure safe lab practices, complete timely inspections, and create COVID-19 protocols
 
-          - Bullet point
-          - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Undergraduate Research Assistant
+      time: October 2014 - April 2017
+      company: Hayes Lab, UC Berkeley
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Undergraduate research at Hayes Lab in UC Berkeley's Integrative Biology Department
+          -Project Director of Estrogen Metabolite Effect on X.Laevis Liver
+          -Project Director of Effect on Group Housing Vs. Individual Housing on Stress Levels and Spontaneous Egg Laying in X.Laevis
+          -Presented Effect of Housing on Stress Levels and Egg Laying at SACNAS 2016 national conference
+          -Daily care of experimental and laboratory animals, including juvenile, adult and tadpole X.Laevis
+          -Created novel X.Laevis hepatocyte cell culture protocol
+          -Performed euthanization, dissection, perfusion, and cardiac puncture of live animals, as needed for experiments
+          -Developed novel program for qPCR analysis to replace outdated lab procedure
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Undergraduate Assistant
+      time: May 2015 - May 2018
+      company: DNA Sequencing Facility, UC Berkeley
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Performed DNA Sequencing and PCR cleanup reactions for customer samples
+          -Analyzed and troubleshooted Sanger sequencing reactions
+          -Interacted with customers to explain procedures and assist in their DNA sequencing experiments
+          -Trained all incoming undergraduates in lab protocols
 
-          - Bullet point
-          - Bullet point
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: R
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Java
+        level: 50%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
