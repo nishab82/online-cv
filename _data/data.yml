@@ -198,21 +198,21 @@ skills:
       - name: Cell Culture
         level: 99%
 
-otherskills:
-    title: Programming Skills &amp; Proficiency
+# otherskills:
+#     title: Programming Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 95%
+#     toolset:
+#       - name: Python
+#         level: 95%
 
-      - name: R
-        level: 75%
+#       - name: R
+#         level: 75%
 
-      - name: Java
-        level: 50%
+#       - name: Java
+#         level: 50%
 
-      - name: HTML5 & CSS
-        level: 80%
+#       - name: HTML5 & CSS
+#         level: 80%
 
 
 
